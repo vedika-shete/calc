@@ -8,8 +8,10 @@ int a= Sc.nextInt();
 int b= Sc.nextInt();
 int sum = a+b;
   int mul = a*b;
+  int sub = a-b;
 System.out.println("Addition of two no:"+sum);
   System.out.println("multiplication of two no:"+multi);
+  System.out.println("subtraction of two no:"+sub);
 sc.close();
 }}
 
