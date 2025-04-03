@@ -7,7 +7,9 @@ System.out.println("Enter second no.");
 int a= Sc.nextInt();
 int b= Sc.nextInt();
 int sum = a+b;
+  int mul = a*b;
 System.out.println("Addition of two no:"+sum);
+  System.out.println("multiplication of two no:"+multi);
 sc.close();
 }}
 
